@@ -1,9 +1,13 @@
 Welcome!🤗
 
 💻 I’m interested in programming.
+
 📚 I’m currently learning JS and RN.
+
 🔥 I wanna develop my own apps.
+
 🤓 I wanna be a competent developer.
+
 🌈 My goal is to bring convenience and fun to customers' daily lives through my application.
 
 Thank you for read! 🙏
