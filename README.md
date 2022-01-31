@@ -9,7 +9,7 @@ Welcome!🤗
 
 🤓 I wanna be a competent developer.
 
-🌈 My goal is to bring convenience and fun to customers' daily lives through my application.
+🌈 My goal is to bring convenience and fun to customers' daily lives through my applications.
 
 
 Thank you for read! 🙏
