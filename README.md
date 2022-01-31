@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Huni!
-- 👀 I’m interested in coding🔥
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Welcome!🤗
+
+💻 I’m interested in programming.
+📚 I’m currently learning JS and RN.
+🔥 I wanna develop my own apps.
+🤓 I wanna be a competent developer.
+🌈 My goal is to bring convenience and fun to customers' daily lives through my application.
+
+Thank you for read! 🙏
 
 <!---
 devHuni/devHuni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
