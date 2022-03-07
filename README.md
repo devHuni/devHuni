@@ -3,7 +3,7 @@ Welcome!🤗
 
 💻 I’m interested in programming.
 
-📚 I’m currently learning JS and RN.
+📚 I’m currently learning SwiftUI.
 
 🔥 I wanna develop my own apps.
 
