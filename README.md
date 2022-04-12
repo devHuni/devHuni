@@ -7,7 +7,7 @@ Welcome!🤗
 
 🔥 I wanna develop my own apps.
 
-🤓 I wanna be a competent developer.
+🤓 I wanna be an iOS developer.
 
 🌈 My goal is to bring convenience and fun to customers' daily lives through my applications.
 
