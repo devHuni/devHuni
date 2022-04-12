@@ -1,4 +1,4 @@
-Welcome!🤗
+Welcome!
 
 
 💻 I’m interested in programming.
