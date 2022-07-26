@@ -3,7 +3,7 @@
 print("Hello, I'm Huni!")
 ```
 
->My goal is to bring ***`convenience`*** and ***`fun`*** for our customers' daily lives through my applications.
+>My goal is to bring ***convenience*** and ***fun*** for our customers' daily lives through my applications.
 ---
 ## **Tech Stacks 📚**
 
